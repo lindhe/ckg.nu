@@ -8,11 +8,18 @@ I'm not very familiar with Jekyll, so these instructions can probably be improve
 ## Prerequisites
 
 * jekyll
+* yamllint
 
 ## Building
 
 ```shell
 jekyll build -s ./www
 firefox ./_site/index.html
+```
+
+## Linting
+
+```shell
+yamllint ./_config.yml
 ```
 
