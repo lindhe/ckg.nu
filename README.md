@@ -13,7 +13,7 @@ I'm not very familiar with Jekyll, so these instructions can probably be improve
 ## Building
 
 ```shell
-jekyll build -s ./www
+jekyll build
 firefox ./_site/index.html
 ```
 
