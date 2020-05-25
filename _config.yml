@@ -6,7 +6,7 @@ description: This might become the new ckg.nu
 baseurl: "/ckg.nu/"  # the subpath of your site, e.g. /blog/
 url: "https://lindhe.io"  # the base hostname & protocol for your site
 
-twitter_username:
+facebook: ChalmersKristnaGrupp
 github_username: lindhe
 
 # Build settings
