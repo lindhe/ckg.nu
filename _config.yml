@@ -2,7 +2,7 @@
 # Site settings
 title: Chalmers Kristna Grupp
 email: info@ckg.nu
-description: This might become the new ckg.nu
+description: "This might become ckg.nu in the future."
 baseurl: "/ckg.nu/"  # the subpath of your site, e.g. /blog/
 url: "https://lindhe.io"  # the base hostname & protocol for your site
 
@@ -11,3 +11,8 @@ github_username: lindhe
 
 # Build settings
 markdown: kramdown
+
+# Content
+slogan: >
+  Vi vill be och arbeta som en kristen gemenskap på Chalmers för att Guds vilja
+  ska ske på jorden så som i himlen.
